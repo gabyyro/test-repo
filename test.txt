@@ -1,3 +1,2 @@
-i changed on v1
-
-new line here
+v1 text
+removed
